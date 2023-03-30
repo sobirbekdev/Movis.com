@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #4d4855;
+background-image: linear-gradient(147deg, #4d4855 0%, #000000 74%);
+
+}
+header{
+    background-color: #000000;
+    box-shadow: #fff;
+}
+
+li{
+    background-color: #923cb5;
+    background-image: linear-gradient(147deg, #923cb5 0%, #000000 74%);
+    border: solid #fff 2px;
+
+    box-shadow: rgb(244,234,234);
+    
+    }
+.btn:hover{
+    background: linear-gradient(45deg, #00c6fb, #005bea);
+}
+#modal__box{
+    top: 120px;
+    background-color: #060202;
+    height:500px ;
+    border: solid #fff 2px;
+}
